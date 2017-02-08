@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="braintree-java-2.69.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../External Libraries/braintree-java-2.69.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
